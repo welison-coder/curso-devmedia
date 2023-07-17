@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    font-family: tahoma;  
+}
+
+div {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    line-height: 28px;
+
+}
+.logo-pagina{
+    width: 150px;
+}
+.header{
+    background-color: #afddfb;
+}
+.links{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    
+}
+a {
+    font-size: 18px;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    color:#1d1d1d;
+    margin: 0 10px;
+}
+.banner{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+span{
+    font-weight: bold;
+    color: #1c81c0;
+}
+h3{
+    color: #1c81c0;
+}
+.assinatura{
+    width: 450px;
+}
+.servicos{
+    background-color: #1d80c1;
+}
+.servicos h3{
+  color: white;
+  font-size: 28px;
+  line-height: 42px;
+}
+.servicos p{
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+.sessao-4{
+    color: yellow;
+}
+.servicos ul{
+    margin: 40px auto;
+    width: 135px;
+    color: white;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+.corretores img{
+    width: 450px;
+}
+.footer{
+    background-color: #1d80c1;
+    margin-bottom: 0px;
+}
+.footer h3{
+    color: white;
+}
+.footer p{
+    color: white;
+    background-color: #1d1d1d;
+    padding: 7px;
+    margin-top: 30px;
+    margin-bottom:30px ;
+}
+.footer span{
+    color: yellow;
+}
+.footer ul{
+    margin: 40px auto;
+    text-align: left;
+    text-decoration: none;
+    width: 230px;
+}
+
+.footer li {
+    text-align: center;
+    margin-top: 15px;
+    font-size:18px
+}
+.footer a{
+    color: #1c81c0;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
